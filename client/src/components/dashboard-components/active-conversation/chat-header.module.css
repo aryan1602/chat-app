@@ -1,0 +1,18 @@
+.chat-header{
+    background-color: #fcba03;
+    display: grid;
+    place-items: center;
+    
+    
+}
+
+.chat-header button {
+    margin-left: 80%;
+    background-color: #242d38;
+    color: ghostwhite;
+    border:none;
+    border-radius: 20px;
+    
+}
+
+

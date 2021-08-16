@@ -1,0 +1,47 @@
+.sidebar{
+    height: 100%;
+    background-color: white;
+    box-shadow: 10px 10px 5px black;
+    display: grid;
+    grid-template-rows: 8% 80% 8%;
+    row-gap: 2%;
+}
+
+.sidebar .btn {
+    background-color: khaki;
+    width: 100%;
+    margin:0;
+    
+    height: 7.5vh;
+    background-color: #fcba03;   
+    color:white;
+    border: none;
+}
+
+.btn:hover{
+    background-color: #dea302
+}
+
+.sidebar ul {
+   text-align: center;
+    padding-left: 0;
+    overflow: auto;
+}
+
+.sidebar ul::-webkit-scrollbar{
+    display: none;
+}
+
+.sidebar li {
+    list-style-type: none;
+    font-size:larger;
+    padding: 10px;
+    font-weight: 700;
+  
+    
+    cursor:pointer;
+}
+
+.sidebar li:hover{
+    color:#fcba03;
+}

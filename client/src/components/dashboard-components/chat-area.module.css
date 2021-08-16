@@ -1,0 +1,9 @@
+.chat-area{
+    
+    background-color: white;
+    box-shadow: 10px 10px 5px black;
+    display: grid;
+    grid-template-rows: 8% 84% 8%;
+  
+
+}

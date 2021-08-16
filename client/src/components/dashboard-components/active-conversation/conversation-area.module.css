@@ -1,0 +1,43 @@
+.convo {
+   
+  max-height: 75vh;
+  overflow-y: auto;
+ 
+}
+.container{
+  margin:10px
+}
+
+
+.from-me {
+  background-color: #242d38;
+  font-size: large;
+  color: white;
+  margin-right: 10px;
+  max-width: 60%;
+  border-radius: 10px;
+  word-wrap: break-word;
+  display: inline-block;
+  text-align: left;
+}
+
+.from-me p {
+  padding: 10px;
+}
+
+.not-me{
+  background-color: #fcba03;
+  font-size: large;
+  color: white;
+  margin-right: 10px;
+  max-width: 60%;
+  border-radius: 10px;
+  word-wrap: break-word;
+  display: inline-block;
+  text-align: left;
+
+}
+
+.not-me p {
+  padding: 10px;
+}

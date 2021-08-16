@@ -1,0 +1,8 @@
+.selected{
+    background-color:#242d38;
+    border: solid white;
+    color:white;
+}
+.selected:hover{
+    color:white
+}

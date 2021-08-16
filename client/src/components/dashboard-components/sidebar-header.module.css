@@ -1,0 +1,26 @@
+.sidebar-header{
+    background-color: #fcba03;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+button {
+    
+    width: 9vw;
+    margin: 10px;
+    font-size: large;
+    cursor: pointer;
+}
+
+.inactive {
+    border-color: white ;
+    color: #fcba03;
+    border: none;
+    
+}
+
+.active {
+    height: 100%;
+    background-color: #fcba03;   
+    color:white;
+    border: solid white;
+}

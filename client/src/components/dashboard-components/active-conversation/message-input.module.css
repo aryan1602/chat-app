@@ -1,0 +1,29 @@
+
+.message{
+   display: grid;
+   grid-template-columns: 80% 20%;
+}
+
+.message input{
+    
+    height: 4.5vh;
+    margin-left: 10px;
+    border: solid #fcba03;
+    font-size: 1.5rem;
+    outline: none;
+    border-radius: 20px;
+    padding: 2px;
+}
+
+.message button {
+    height: 4.5vh;
+    background-color: #fcba03;
+    color: white;
+    border:none;
+    border-radius: 20px;
+  
+
+   
+    
+}
+

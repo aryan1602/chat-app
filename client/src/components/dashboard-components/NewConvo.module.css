@@ -1,0 +1,33 @@
+.container {
+    
+    font-size: larger;
+    padding: 20px;
+    display: grid;
+    row-gap: 2vh;
+    max-height: 30vh;
+    overflow: auto;
+}
+
+.convo input {
+    height: 4vh;
+    width: 4vw;
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+}
+
+.convo label{
+    font-size: larger;
+    display: block;
+    
+}
+
+.convo .btn {
+    height: 2rem;
+    width: 8vw;
+    margin: 10px;
+    font-size: large;
+    background-color: #fcba03;   
+    color:white;
+    border: none;
+}

@@ -1,0 +1,8 @@
+.dashboard{
+    background-color: #242d38;
+    width: 90vw;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: 24.5% 74.5%;
+    column-gap: 1%;
+}
